@@ -1,0 +1,31 @@
+a {
+  cursor: pointer;
+  text-decoration: none;
+  font-family: "Helvetica", serif;
+  font-size: 0.75em;
+}
+.icon{
+  object-fit: cover;
+  width: 2em;
+  height: 100%;
+  border-radius: .15em;
+}
+.trijosh-title{
+  font-size: 1em;
+  font-weight: bold;
+}
+.is-active {
+  background-color: #d3d3d3;
+}
+.mat-menu-item {
+  outline: none;
+  font-size: 1.25rem;
+}
+
+.research {
+  background-color: #dfeddc
+}
+
+.local {
+  background-color: #eddcdc
+}
